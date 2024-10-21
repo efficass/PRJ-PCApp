@@ -1,0 +1,2 @@
+aprendiendo lo básico de git
+esto es un update del archivo
